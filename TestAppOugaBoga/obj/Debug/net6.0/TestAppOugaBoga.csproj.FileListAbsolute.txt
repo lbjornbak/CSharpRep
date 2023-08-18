@@ -1,0 +1,14 @@
+Q:\IT\Prosjekter\Lars-BugNanza\Prac stuff\TestAppOugaBoga\bin\Debug\net6.0\TestAppOugaBoga.exe
+Q:\IT\Prosjekter\Lars-BugNanza\Prac stuff\TestAppOugaBoga\bin\Debug\net6.0\TestAppOugaBoga.deps.json
+Q:\IT\Prosjekter\Lars-BugNanza\Prac stuff\TestAppOugaBoga\bin\Debug\net6.0\TestAppOugaBoga.runtimeconfig.json
+Q:\IT\Prosjekter\Lars-BugNanza\Prac stuff\TestAppOugaBoga\bin\Debug\net6.0\TestAppOugaBoga.dll
+Q:\IT\Prosjekter\Lars-BugNanza\Prac stuff\TestAppOugaBoga\bin\Debug\net6.0\TestAppOugaBoga.pdb
+Q:\IT\Prosjekter\Lars-BugNanza\Prac stuff\TestAppOugaBoga\obj\Debug\net6.0\TestAppOugaBoga.GeneratedMSBuildEditorConfig.editorconfig
+Q:\IT\Prosjekter\Lars-BugNanza\Prac stuff\TestAppOugaBoga\obj\Debug\net6.0\TestAppOugaBoga.AssemblyInfoInputs.cache
+Q:\IT\Prosjekter\Lars-BugNanza\Prac stuff\TestAppOugaBoga\obj\Debug\net6.0\TestAppOugaBoga.AssemblyInfo.cs
+Q:\IT\Prosjekter\Lars-BugNanza\Prac stuff\TestAppOugaBoga\obj\Debug\net6.0\TestAppOugaBoga.csproj.CoreCompileInputs.cache
+Q:\IT\Prosjekter\Lars-BugNanza\Prac stuff\TestAppOugaBoga\obj\Debug\net6.0\TestAppOugaBoga.dll
+Q:\IT\Prosjekter\Lars-BugNanza\Prac stuff\TestAppOugaBoga\obj\Debug\net6.0\refint\TestAppOugaBoga.dll
+Q:\IT\Prosjekter\Lars-BugNanza\Prac stuff\TestAppOugaBoga\obj\Debug\net6.0\TestAppOugaBoga.pdb
+Q:\IT\Prosjekter\Lars-BugNanza\Prac stuff\TestAppOugaBoga\obj\Debug\net6.0\TestAppOugaBoga.genruntimeconfig.cache
+Q:\IT\Prosjekter\Lars-BugNanza\Prac stuff\TestAppOugaBoga\obj\Debug\net6.0\ref\TestAppOugaBoga.dll
